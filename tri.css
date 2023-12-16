@@ -1,0 +1,90 @@
+body{
+    margin:0;
+    background-color: black;
+}
+.title h1{
+    color:white;
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 5%;
+    text-decoration: underline;
+    
+}
+.title h1:hover{
+    color: orange;
+}
+
+.content h1{
+    color:red;
+    font-size: 450%;
+    margin-top:-450px;
+    font-style: italic;
+
+}
+.content h1:hover{
+    color: orange;
+}
+img{
+    margin-left: 750px;
+    margin-top: -1%;
+}
+.content h2{
+    color: white;
+    padding-left: 49%;
+    padding-top: 175px;
+    font-size: 220%;
+    text-align: center;
+}
+.content h3{
+    color: white;
+    padding-left: 87%;
+    margin-top: -68px;
+    font-size: 220%;
+}
+.bio h1{
+    color: white;
+    padding-left: 15%;
+    padding-top: 5%;
+    font-size: 250%;
+    color:rgb(238,241,21);
+    
+}
+.bio h1:hover{
+    color: red;
+}
+.bio p{
+    color: white;
+    padding-left: 15%;
+    font-size: 170%;
+    background-color: orangered;
+}
+.biography h1{
+    color: rgb(238,241,21);
+    padding-left: 15%;
+}
+.biography h1:hover{
+    color: red;
+}
+
+.biography p{
+    color: white;
+    padding-left: 15%;
+    font-size: 140%;
+    background-color: green;
+}
+.read p{
+    color: white;
+    padding-left: 70%;
+    font-size: 120%;
+    padding-top: 20px;
+}
+.rred a{
+    color: rgb(250,9,9);
+    margin-left: 60%;
+    font-size: 140px;
+    text-decoration: none;
+}
+
+.rred a:hover{
+    color:rgb(229,241,11);
+}
